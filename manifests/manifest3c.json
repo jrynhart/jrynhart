@@ -364,15 +364,15 @@
       "type" : "Feature",
       "properties" : {
         "label" : {
-          "en" : [ "University of Denver" ]
+          "en" : [ "Jewish Consumptives' Relief Society Laboratory" ]
         },
         "summary" : {
-          "en" : [ "2199 S University Blvd Denver, CO 80208" ]
+          "en" : [ "1600 Peirce St. Lakewood, CO 80214" ]
         }
       },
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -104.960416, 39.676623 ]
+        "coordinates" : [ -105.069584, 39.743345 ]
       }
     }, {
       "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/2",
@@ -394,15 +394,15 @@
       "type" : "Feature",
       "properties" : {
         "label" : {
-          "en" : [ "Jewish Consumptives' Relief Society Laboratory" ]
+          "en" : [ "DU Eleanor Roosevelt Institute" ]
         },
         "summary" : {
-          "en" : [ "1600 Peirce St. Lakewood, CO 80214" ]
+          "en" : [ "2155 E. Wesley Ave. Denver, CO 80210" ]
         }
       },
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -105.069584, 39.743345 ]
+        "coordinates" : [ -104.963366, 39.673311 ]
       }
     }, {
       "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/4",
@@ -434,24 +434,9 @@
         "type" : "Point",
         "coordinates" : [ -104.963366, 39.673311 ]
       }
-    }, {
-      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/6",
-      "type" : "Feature",
-      "properties" : {
-        "label" : {
-          "en" : [ "DU Eleanor Roosevelt Institute" ]
-        },
-        "summary" : {
-          "en" : [ "2155 E. Wesley Ave. Denver, CO 80210" ]
-        }
-      },
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [ -104.963366, 39.673311 ]
-      }
     }, 
       {
-        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/7",
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/6",
         "type": "Feature",
         "properties": {
           "label": {
@@ -475,7 +460,7 @@
       },
       
       {
-      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/8",
+      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/7",
       "type" : "Feature",
       "properties" : {
         "label" : {
@@ -490,7 +475,7 @@
         "coordinates" : [ -104.964538, 39.676614 ]
       }
     }, {
-      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/9",
+      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/8",
       "type" : "Feature",
       "properties" : {
         "label" : {
@@ -504,7 +489,30 @@
         "type" : "Point",
         "coordinates" : [ -104.963366, 39.673311 ]
       }
-    } ]
+    },
+	{
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/9",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "University of Denver"
+            ]
+          },
+          "summary": {
+            "en": [
+              "2199 S University Blvd Denver, CO 80208"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+             -104.960416, 
+             39.676623
+          ]
+        }
+      }]
   },
   "structures" : [ {
     "id" : "http://example.org/iiif/book1/range/top",
