@@ -17,5 +17,11 @@
       "true" : [ "People working in laboratories at the University of Denver" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://jrynhart.github.io/jrynhart/manifests/manifest3.json",
+    "label" : {
+      "true" : [ "People working in laboratories at the University of Denver" ]
+    },
+    "type" : "Manifest"
   } ]
 }
