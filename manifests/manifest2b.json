@@ -22,7 +22,7 @@
   } ],
   "license" : "https://creativecommons.org/licenses/by/4.0/",
   "attribution" : "University of Denver Special Collections & Archives",
-  "viewingHint" : "individual",
+  "viewingHint" : "individuals",
   "sequences" : [ {
     "@id" : "http://05db6f31-35fc-47f5-819b-46573761e83c",
     "@type" : "sc:Sequence",
@@ -30,7 +30,7 @@
       "@value" : "Normal Sequence",
       "@language" : "en"
     } ],
-    "viewingHint" : "individual",
+    "viewingHint" : "individuals",
     "canvases" : [ {
       "@id" : "http://example.org/iiif/canvas/1",
       "@type" : "sc:Canvas",
