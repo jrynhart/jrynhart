@@ -1,0 +1,537 @@
+{
+  "@context" : [ "http://iiif.io/api/extension/navplace/context.json", "http://www.w3.org/ns/anno.jsonld", "http://iiif.io/api/presentation/3/context.json" ],
+  "id" : "https://jrynhart.github.io/jrynhart/manifests/manifest3b.json",
+  "type" : "Manifest",
+  "label" : {
+    "true" : [ "People Working in Laboratories at the University of Denver - version 3b" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "true" : [ "Title" ]
+    },
+    "value" : {
+      "true" : [ "University of Denver Laboratories" ]
+    }
+  }, {
+    "label" : {
+      "true" : [ "Creator" ]
+    },
+    "value" : {
+      "true" : [ "Jeff Rynhart" ]
+    }
+  }, {
+    "label" : {
+      "true" : [ "Publisher" ]
+    },
+    "value" : {
+      "true" : [ "University of Denver Special Collections & Archives" ]
+    }
+  }, {
+    "label" : {
+      "true" : [ "Date" ]
+    },
+    "value" : {
+      "true" : [ "2024-06" ]
+    }
+  }, {
+    "label" : {
+      "true" : [ "Description" ]
+    },
+    "value" : {
+      "en" : [ "Assorted images of people working in laboratories at the University of Denver, including the Jewish Consumptives' Relief Society, the Eleanor Roosevelt Institute, and the Mudd Science Center. The images date from 1919 to 1995." ]
+    }
+  } ],
+  "requiredStatement" : {
+    "label" : {
+      "true" : [ true ]
+    },
+    "value" : {
+      "true" : [ "University of Denver Special Collections & Archives" ]
+    }
+  },
+  "rights" : "https://creativecommons.org/licenses/by/4.0/",
+  "behavior" : [ "individuals" ],
+  "items" : [ {
+    "id" : "http://example.org/iiif/book1/1",
+    "type" : "Canvas",
+    "label" : {
+      "true" : [ "Clinical Laboratory at the Jewish Consumptives' Relief Society, 1919-1925" ]
+    },
+    "homepage" : {
+      "type" : "Text"
+    },
+    "height" : 3189,
+    "width" : 3942,
+    "items" : [ {
+      "id" : "https://example.org/uuid/34338b0f-a041-49b8-b674-3f86989c8e04",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://705bb58b-26be-4c5d-ba32-78bdb68d40ce",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "http://example.org/iiif/book1/1",
+        "body" : {
+          "id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/e9b850e7-1f1b-45ba-9b13-20214ef1e7e7/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3189,
+          "width" : 3942,
+          "service" : [ {
+            "@id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/e9b850e7-1f1b-45ba-9b13-20214ef1e7e7",
+            "@type" : "ImageService2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "http://example.org/iiif/book1/2",
+    "type" : "Canvas",
+    "label" : {
+      "true" : [ "Biochemical Laboratory at the Jewish Consumptives' Relief Society, circa 1924" ]
+    },
+    "homepage" : {
+      "type" : "Text"
+    },
+    "height" : 2077,
+    "width" : 3000,
+    "items" : [ {
+      "id" : "https://example.org/uuid/922df73c-8385-433e-82f7-685ac940bbfb",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://74084914-87d9-4f17-ba18-8501c60d9890",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "http://example.org/iiif/book1/2",
+        "body" : {
+          "id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/5d21fe28-2ca2-4918-9330-bc768e593fb5/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2077,
+          "width" : 3000,
+          "service" : [ {
+            "@id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/5d21fe28-2ca2-4918-9330-bc768e593fb5",
+            "@type" : "ImageService2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "http://example.org/iiif/book1/3",
+    "type" : "Canvas",
+    "label" : {
+      "true" : [ "Drug Photography, between 1961-1979" ]
+    },
+    "homepage" : {
+      "type" : "Text"
+    },
+    "height" : 4476,
+    "width" : 5439,
+    "items" : [ {
+      "id" : "https://example.org/uuid/56b99dc4-36cd-4d41-8c17-7a699d00c38e",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://e2dcf8b1-ca21-4f2f-811f-c1643082fcb1",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "http://example.org/iiif/book1/3",
+        "body" : {
+          "id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/b0403e4d-8179-4055-8689-691eb4ef4b50/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4476,
+          "width" : 5439,
+          "service" : [ {
+            "@id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/b0403e4d-8179-4055-8689-691eb4ef4b50",
+            "@type" : "ImageService2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "http://example.org/iiif/book1/4",
+    "type" : "Canvas",
+    "label" : {
+      "true" : [ "Eleanor Roosevelt Institute Staff Member Inspecting Beaker Label, between 1961-1979" ]
+    },
+    "homepage" : {
+      "type" : "Text"
+    },
+    "height" : 5468,
+    "width" : 4428,
+    "items" : [ {
+      "id" : "https://example.org/uuid/4c310831-fcec-48eb-a0ec-a8c0c081c0dc",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://65ffa939-981a-41bb-a128-9406de8d33c9",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "http://example.org/iiif/book1/4",
+        "body" : {
+          "id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/fbec8e5e-5ae3-4042-8152-6a4292635dc5/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5468,
+          "width" : 4428,
+          "service" : [ {
+            "@id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/fbec8e5e-5ae3-4042-8152-6a4292635dc5",
+            "@type" : "ImageService2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "http://example.org/iiif/book1/5",
+    "type" : "Canvas",
+    "label" : {
+      "true" : [ "Atomic Energy, between 1961-1979" ]
+    },
+    "homepage" : {
+      "type" : "Text"
+    },
+    "height" : 4443,
+    "width" : 5474,
+    "items" : [ {
+      "id" : "https://example.org/uuid/8489cdbf-8cc4-40ee-ac69-ebe556cf3169",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://2a2f6c20-3cf9-468f-b1a4-05454f2dba9a",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "http://example.org/iiif/book1/5",
+        "body" : {
+          "id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/d1e29955-9e8d-4a94-abb8-14d2c54c01b3/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4443,
+          "width" : 5474,
+          "service" : [ {
+            "@id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/d1e29955-9e8d-4a94-abb8-14d2c54c01b3",
+            "@type" : "ImageService2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "http://example.org/iiif/book1/6",
+    "type" : "Canvas",
+    "label" : {
+      "true" : [ "Eugene Clark, between 1961-1970" ]
+    },
+    "homepage" : {
+      "type" : "Text"
+    },
+    "height" : 4434,
+    "width" : 5427,
+    "items" : [ {
+      "id" : "https://example.org/uuid/07d7a100-8398-4293-a353-7e95c57fed35",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://fa13a020-1c1b-4261-ade8-0e6e4c9880bf",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "http://example.org/iiif/book1/6",
+        "body" : {
+          "id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/7567937d-5a1b-4662-8ae6-e54d9f6dd226/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4434,
+          "width" : 5427,
+          "service" : [ {
+            "@id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/7567937d-5a1b-4662-8ae6-e54d9f6dd226",
+            "@type" : "ImageService2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "http://example.org/iiif/book1/7",
+    "type" : "Canvas",
+    "label" : {
+      "true" : [ "University of Denver Mudd Science Center, 1981" ]
+    },
+    "homepage" : {
+      "type" : "Text"
+    },
+    "height" : 3147,
+    "width" : 4726,
+    "items" : [ {
+      "id" : "https://example.org/uuid/bfa5f1ef-288b-45fd-bcda-5a2142ff704a",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://a8aabf25-8a43-4598-9723-28458425f672",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "http://example.org/iiif/book1/7",
+        "body" : {
+          "id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/ee0f45cc-146f-457e-a1a6-7d5cd108dfbd/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3147,
+          "width" : 4726,
+          "service" : [ {
+            "@id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/ee0f45cc-146f-457e-a1a6-7d5cd108dfbd",
+            "@type" : "ImageService2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "http://example.org/iiif/book1/8",
+    "type" : "Canvas",
+    "label" : {
+      "true" : [ "Eleanor Roosevelt Institute Staff Member Working in Laboratory, circa 1995" ]
+    },
+    "homepage" : {
+      "type" : "Text"
+    },
+    "height" : 3292,
+    "width" : 4958,
+    "items" : [ {
+      "id" : "https://example.org/uuid/f6b9c4ce-3bb4-4851-8879-f179267b44cc",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "id" : "http://d93c6773-48cf-4eef-88d9-f45b41a951fa",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "http://example.org/iiif/book1/8",
+        "body" : {
+          "id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/d83ec5be-5dc7-4c1d-a784-e7cc7ba72bb4/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3292,
+          "width" : 4958,
+          "service" : [ {
+            "@id" : "https://specialcollections.du.edu/cantaloupe-digitaldu/iiif/2/d83ec5be-5dc7-4c1d-a784-e7cc7ba72bb4",
+            "@type" : "ImageService2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  } ],
+  "navPlace" : {
+    "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
+    "type" : "FeatureCollection",
+    "features" : [ {
+      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+      "type" : "Feature",
+      "properties" : {
+        "label" : {
+          "en" : [ "University of Denver" ]
+        },
+        "summary" : {
+          "en" : [ "2199 S University Blvd Denver, CO 80208" ]
+        }
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -104.960416, 39.676623 ]
+      }
+    }, {
+      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/2",
+      "type" : "Feature",
+      "properties" : {
+        "label" : {
+          "en" : [ "Jewish Consumptives' Relief Society Laboratory" ]
+        },
+        "summary" : {
+          "en" : [ "1600 Peirce St. Lakewood, CO 80214" ]
+        }
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -105.069584, 39.743345 ]
+      }
+    }, {
+      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/3",
+      "type" : "Feature",
+      "properties" : {
+        "label" : {
+          "en" : [ "Jewish Consumptives' Relief Society Laboratory" ]
+        },
+        "summary" : {
+          "en" : [ "1600 Peirce St. Lakewood, CO 80214" ]
+        }
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -105.069584, 39.743345 ]
+      }
+    }, {
+      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/4",
+      "type" : "Feature",
+      "properties" : {
+        "label" : {
+          "en" : [ "DU Eleanor Roosevelt Institute" ]
+        },
+        "summary" : {
+          "en" : [ "2155 E. Wesley Ave. Denver, CO 80210" ]
+        }
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -104.963366, 39.673311 ]
+      }
+    }, {
+      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/5",
+      "type" : "Feature",
+      "properties" : {
+        "label" : {
+          "en" : [ "DU Eleanor Roosevelt Institute" ]
+        },
+        "summary" : {
+          "en" : [ "2155 E. Wesley Ave. Denver, CO 80210" ]
+        }
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -104.963366, 39.673311 ]
+      }
+    }, {
+      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/6",
+      "type" : "Feature",
+      "properties" : {
+        "label" : {
+          "en" : [ "DU Eleanor Roosevelt Institute" ]
+        },
+        "summary" : {
+          "en" : [ "2155 E. Wesley Ave. Denver, CO 80210" ]
+        }
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -104.963366, 39.673311 ]
+      }
+    }, {
+      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/7",
+      "type" : "Feature",
+      "properties" : {
+        "label" : {
+          "en" : [ "University of Denver Mudd Science Center" ]
+        },
+        "summary" : {
+          "en" : [ "2101 E. Wesley Ave. Denver, CO 80210" ]
+        }
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -104.964538, 39.676614 ]
+      }
+    }, {
+      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/8",
+      "type" : "Feature",
+      "properties" : {
+        "label" : {
+          "en" : [ "DU Eleanor Roosevelt Institute" ]
+        },
+        "summary" : {
+          "en" : [ "2155 E. Wesley Ave. Denver, CO 80210" ]
+        }
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -104.963366, 39.673311 ]
+      }
+    } ]
+  },
+  "structures" : [ {
+    "id" : "http://example.org/iiif/book1/range/top",
+    "type" : "Range",
+    "label" : {
+      "true" : [ "Table of Content" ]
+    },
+    "items" : [ {
+      "id" : "http://example.org/iiif/book1/range/1919-1925",
+      "type" : "Range",
+      "label" : {
+        "true" : [ "1919-1925" ]
+      },
+      "items" : [ {
+        "id" : "http://example.org/iiif/book1/1",
+        "type" : "Canvas"
+      }, {
+        "id" : "http://example.org/iiif/book1/2",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "http://example.org/iiif/book1/range/1961-1970",
+      "type" : "Range",
+      "label" : {
+        "true" : [ "1961-1970" ]
+      },
+      "items" : [ {
+        "id" : "http://example.org/iiif/book1/3",
+        "type" : "Canvas"
+      }, {
+        "id" : "http://example.org/iiif/book1/4",
+        "type" : "Canvas"
+      }, {
+        "id" : "http://example.org/iiif/book1/5",
+        "type" : "Canvas"
+      }, {
+        "id" : "http://example.org/iiif/book1/6",
+        "type" : "Canvas"
+      }, {
+        "id" : "http://example.org/iiif/book1/7",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "http://example.org/iiif/book1/range/1971-1995",
+      "type" : "Range",
+      "label" : {
+        "true" : [ "1971-1995" ]
+      },
+      "items" : [ {
+        "id" : "http://example.org/iiif/book1/8",
+        "type" : "Canvas"
+      } ]
+    } ]
+  } ]
+}
