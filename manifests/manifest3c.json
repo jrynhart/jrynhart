@@ -449,8 +449,33 @@
         "type" : "Point",
         "coordinates" : [ -104.963366, 39.673311 ]
       }
-    }, {
-      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/7",
+    }, 
+      {
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/7",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "DU Eleanor Roosevelt Institute"
+            ]
+          },
+          "summary": {
+            "en": [
+              "2155 E. Wesley Ave. Denver, CO 80210"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -104.963366,
+						39.673311
+          ]
+        }
+      },
+      
+      {
+      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/8",
       "type" : "Feature",
       "properties" : {
         "label" : {
@@ -465,7 +490,7 @@
         "coordinates" : [ -104.964538, 39.676614 ]
       }
     }, {
-      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/8",
+      "id" : "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/9",
       "type" : "Feature",
       "properties" : {
         "label" : {
