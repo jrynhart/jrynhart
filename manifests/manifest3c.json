@@ -212,7 +212,7 @@
         "type": "FeatureCollection",
         "features": [
           {
-            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/2",
             "type": "Feature",
             "properties": {
               "label": {
@@ -321,7 +321,7 @@
         "type": "FeatureCollection",
         "features": [
           {
-            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/3",
             "type": "Feature",
             "properties": {
               "label": {
@@ -430,7 +430,7 @@
         "type": "FeatureCollection",
         "features": [
           {
-            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/4",
             "type": "Feature",
             "properties": {
               "label": {
@@ -539,7 +539,7 @@
         "type": "FeatureCollection",
         "features": [
           {
-            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/5",
             "type": "Feature",
             "properties": {
               "label": {
@@ -648,7 +648,7 @@
         "type": "FeatureCollection",
         "features": [
           {
-            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/6",
             "type": "Feature",
             "properties": {
               "label": {
@@ -756,7 +756,7 @@
         "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
         "type": "FeatureCollection",
         "features": [{
-          "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+          "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/7",
           "type": "Feature",
           "properties": {
             "label": {
@@ -864,7 +864,7 @@
         "type": "FeatureCollection",
         "features": [
           {
-            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/8",
             "type": "Feature",
             "properties": {
               "label": {
@@ -966,7 +966,7 @@
     "type": "FeatureCollection",
     "features": [
       {
-        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/9",
         "type": "Feature",
         "properties": {
           "label": {
