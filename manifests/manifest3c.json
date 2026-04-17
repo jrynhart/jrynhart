@@ -101,7 +101,31 @@
       "navPlace": {
         "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
         "type": "FeatureCollection",
-        "features": []
+        "features": [
+          {
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "type": "Feature",
+            "properties": {
+              "label": {
+                "en": [
+                  "Jewish Consumptives' Relief Society Laboratory"
+                ]
+              },
+              "summary": {
+                "en": [
+                  "1600 Peirce St. Lakewood, CO 80214"
+                ]
+              }
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -105.069584,
+                39.743345      
+              ]
+            }
+          }
+        ]
       },
       "homepage": {
         "type": "Text"
@@ -181,6 +205,35 @@
       "label": {
         "true": [
           "Biochemical Laboratory at the Jewish Consumptives' Relief Society, circa 1924"
+        ]
+      },
+      "navPlace": {
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "type": "Feature",
+            "properties": {
+              "label": {
+                "en": [
+                  "Jewish Consumptives' Relief Society Laboratory"
+                ]
+              },
+              "summary": {
+                "en": [
+                  "1600 Peirce St. Lakewood, CO 80214"
+                ]
+              }
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -105.069584,
+                39.743345  
+              ]
+            }
+          }
         ]
       },
       "homepage": {
@@ -263,6 +316,35 @@
           "Drug Photography, between 1961-1979"
         ]
       },
+      "navPlace": {
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "type": "Feature",
+            "properties": {
+              "label": {
+                "en": [
+                  "DU Eleanor Roosevelt Institute"
+                ]
+              },
+              "summary": {
+                "en": [
+                  "2155 E. Wesley Ave. Denver, CO 80210"
+                ]
+              }
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -104.963366,
+    						39.673311
+              ]
+            }
+          }
+        ]
+      },
       "homepage": {
         "type": "Text"
       },
@@ -341,6 +423,35 @@
       "label": {
         "true": [
           "Eleanor Roosevelt Institute Staff Member Inspecting Beaker Label, between 1961-1979"
+        ]
+      },
+      "navPlace": {
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "type": "Feature",
+            "properties": {
+              "label": {
+                "en": [
+                  "DU Eleanor Roosevelt Institute"
+                ]
+              },
+              "summary": {
+                "en": [
+                  "2155 E. Wesley Ave. Denver, CO 80210"
+                ]
+              }
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -104.963366,
+    						39.673311
+              ]
+            }
+          }
         ]
       },
       "homepage": {
@@ -423,6 +534,35 @@
           "Atomic Energy, between 1961-1979"
         ]
       },
+      "navPlace": {
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "type": "Feature",
+            "properties": {
+              "label": {
+                "en": [
+                  "DU Eleanor Roosevelt Institute"
+                ]
+              },
+              "summary": {
+                "en": [
+                  "2155 E. Wesley Ave. Denver, CO 80210"
+                ]
+              }
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -104.963366,
+    						39.673311
+              ]
+            }
+          }
+        ]
+      },
       "homepage": {
         "type": "Text"
       },
@@ -501,6 +641,35 @@
       "label": {
         "true": [
           "Eugene Clark, between 1961-1970"
+        ]
+      },
+      "navPlace": {
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "type": "Feature",
+            "properties": {
+              "label": {
+                "en": [
+                  "DU Eleanor Roosevelt Institute"
+                ]
+              },
+              "summary": {
+                "en": [
+                  "2155 E. Wesley Ave. Denver, CO 80210"
+                ]
+              }
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -104.963366,
+    						39.673311
+              ]
+            }
+          }
         ]
       },
       "homepage": {
@@ -583,6 +752,33 @@
           "University of Denver Mudd Science Center, 1981"
         ]
       },
+      "navPlace": {
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
+        "type": "FeatureCollection",
+        "features": [{
+          "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+          "type": "Feature",
+          "properties": {
+            "label": {
+              "en": [
+                "University of Denver Mudd Science Center"
+              ]
+            },
+            "summary": {
+              "en": [
+                "2101 E. Wesley Ave. Denver, CO 80210"
+              ]
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -104.964538,
+  						39.676614
+            ]
+          }
+        }]
+      },
       "homepage": {
         "type": "Text"
       },
@@ -661,6 +857,35 @@
       "label": {
         "true": [
           "Eleanor Roosevelt Institute Staff Member Working in Laboratory, circa 1995"
+        ]
+      },
+      "navPlace": {
+        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature-collection/1",
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
+            "type": "Feature",
+            "properties": {
+              "label": {
+                "en": [
+                  "DU Eleanor Roosevelt Institute"
+                ]
+              },
+              "summary": {
+                "en": [
+                  "2155 E. Wesley Ave. Denver, CO 80210"
+                ]
+              }
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -104.963366,
+    						39.673311
+              ]
+            }
+          }
         ]
       },
       "homepage": {
@@ -742,190 +967,6 @@
     "features": [
       {
         "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/1",
-        "type": "Feature",
-        "properties": {
-          "label": {
-            "en": [
-              "Jewish Consumptives' Relief Society Laboratory"
-            ]
-          },
-          "summary": {
-            "en": [
-              "1600 Peirce St. Lakewood, CO 80214"
-            ]
-          }
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -105.069584,
-            39.743345      
-          ]
-        }
-      },
-      {
-        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/2",
-        "type": "Feature",
-        "properties": {
-          "label": {
-            "en": [
-              "Jewish Consumptives' Relief Society Laboratory"
-            ]
-          },
-          "summary": {
-            "en": [
-              "1600 Peirce St. Lakewood, CO 80214"
-            ]
-          }
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -105.069584,
-            39.743345  
-          ]
-        }
-      },
-      {
-        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/3",
-        "type": "Feature",
-        "properties": {
-          "label": {
-            "en": [
-              "DU Eleanor Roosevelt Institute"
-            ]
-          },
-          "summary": {
-            "en": [
-              "2155 E. Wesley Ave. Denver, CO 80210"
-            ]
-          }
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -104.962626,
-						39.673413
-          ]
-        }
-      },
-      {
-        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/4",
-        "type": "Feature",
-        "properties": {
-          "label": {
-            "en": [
-              "DU Eleanor Roosevelt Institute"
-            ]
-          },
-          "summary": {
-            "en": [
-              "2155 E. Wesley Ave. Denver, CO 80210"
-            ]
-          }
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -104.962626,
-						39.673413
-          ]
-        }
-      },
-      {
-        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/5",
-        "type": "Feature",
-        "properties": {
-          "label": {
-            "en": [
-              "DU Eleanor Roosevelt Institute"
-            ]
-          },
-          "summary": {
-            "en": [
-              "2155 E. Wesley Ave. Denver, CO 80210"
-            ]
-          }
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -104.962626,
-						39.673413
-          ]
-        }
-      },
-      {
-        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/6",
-        "type": "Feature",
-        "properties": {
-          "label": {
-            "en": [
-              "DU Eleanor Roosevelt Institute"
-            ]
-          },
-          "summary": {
-            "en": [
-              "2155 E. Wesley Ave. Denver, CO 80210"
-            ]
-          }
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -104.962626,
-						39.673413
-          ]
-        }
-      },
-      {
-        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/7",
-        "type": "Feature",
-        "properties": {
-          "label": {
-            "en": [
-              "University of Denver Mudd Science Center"
-            ]
-          },
-          "summary": {
-            "en": [
-              "2101 E. Wesley Ave. Denver, CO 80210"
-            ]
-          }
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -104.962826,
-						39.674083
-          ]
-        }
-      },
-      {
-        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/8",
-        "type": "Feature",
-        "properties": {
-          "label": {
-            "en": [
-              "DU Eleanor Roosevelt Institute"
-            ]
-          },
-          "summary": {
-            "en": [
-              "2155 E. Wesley Ave. Denver, CO 80210"
-            ]
-          }
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -104.962626,
-						39.673413
-          ]
-        }
-      },
-      {
-        "id": "https://iiif.io/api/cookbook/recipe/0154-geo-extension/feature/9",
         "type": "Feature",
         "properties": {
           "label": {
